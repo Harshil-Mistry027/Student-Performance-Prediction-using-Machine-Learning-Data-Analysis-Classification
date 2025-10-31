@@ -68,9 +68,10 @@ The script includes an **interactive mode** allowing users to enter student deta
 
 ### ✅ 1. Install Dependencies
 Run the following command:
-
+pip install -r requirements.txt
 
 ### ✅ 2. Run the main script
+python Project.py
 
 Make sure *AI-Data.csv* is in the same folder as `Project.py`.
 
