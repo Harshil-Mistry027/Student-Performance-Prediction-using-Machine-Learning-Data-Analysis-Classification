@@ -108,10 +108,5 @@ This project demonstrates how machine learning techniques can help analyze stude
 
 ---
 
----
-
 ## 📧 Contact
 For any improvements or help, feel free to reach out or create an issue in the repository.
-
-
-## 📂 Project Structure
